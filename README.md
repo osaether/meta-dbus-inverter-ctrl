@@ -1,4 +1,4 @@
-This repository contains a recipe for building 
+This repository contains a [Bitbake recipe](https://docs.yoctoproject.org/1.6/bitbake-user-manual/bitbake-user-manual.html) for building 
 [dbus-inverter-ctrl](https://github.com/osaether/dbus-inverter-ctrl)
 
 # Building
