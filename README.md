@@ -3,7 +3,7 @@ This repository contains a [Bitbake recipe](https://docs.yoctoproject.org/1.6/bi
 
 # Building
 
-To build dbus-inverter-ctrl follow these steps:
+To build the dbus-inverter-ctrl installer follow these steps:
 
 1. Clone and initialize the [venus](https://github.com/victronenergy/venus) repo
 
